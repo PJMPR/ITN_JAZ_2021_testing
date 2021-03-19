@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\PJWSTK\git\JAZ\.metadata\.plugins\org.eclipse.jdt.core
+1222340331.index
+219769243.index
+2989679847.index
