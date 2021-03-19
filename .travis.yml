@@ -3,4 +3,5 @@ jdk:
   - openjdk8
 script:
   - cd lab1.servlets
-  - mvn test
+  - mvn jetty:run
+  - mvn package
